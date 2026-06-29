@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Andrew, a 22-year-old beginner full-stack developer based in Kyiv.
+
+I have worked on several non-commercial projects, including a retail website built with Python and Django, as well as C++ applications for performing complex calculations. Now I'm looking for commercial projects to improve my skills and grow as a developer.
+
+My stack:
+
+Python, Django, C++, PHP, SQL, MySQL, PostgreSQL, Docker.
+
+See ya! 👋
+
 <!--
 **sparkblrd/sparkblrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
